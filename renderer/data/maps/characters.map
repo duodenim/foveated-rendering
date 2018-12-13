@@ -1,0 +1,203 @@
+{
+  "entities": [
+    {
+      "type": "static",
+      "position": {
+        "x": 0.0,
+        "y": -1.5,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mesh": "models/trial.dae"
+    }
+  ],
+  "directionalLight": {
+    "direction": {
+        "x": 0.0,
+        "y": -1.0,
+        "z": -1.0
+    },
+    "ambient": {
+        "r": 0.1,
+        "g": 0.01,
+        "b": 0.01
+    },
+    "diffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "specular": {
+        "r": 0.75,
+        "g": 0.75,
+        "b": 0.75
+    }
+  },
+  "characters": [
+    {
+        "image": "player.png",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": -4.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 2.0,
+            "y": 0.2,
+            "z": -3.6461
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -30.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 3.4641,
+            "y": 0.2,
+            "z": -2.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -60.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 4.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -90.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 3.4641,
+            "y": 0.2,
+            "z": 2.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -120.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 2.0,
+            "y": 0.2,
+            "z": 3.4641
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": -150.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": 0.0,
+            "y": 0.2,
+            "z": 4.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 180.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": -2.0,
+            "y": 0.2,
+            "z": 3.4641
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 150.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": -3.4641,
+            "y": 0.2,
+            "z": 2.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 120.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": -4.0,
+            "y": 0.2,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": -3.4641,
+            "y": 0.2,
+            "z": -2.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 60.0,
+            "z": 0.0
+        }
+    },
+    {
+        "image": "player.png",
+        "position": {
+            "x": -2.0,
+            "y": 0.2,
+            "z": -3.4641
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 30.0,
+            "z": 0.0
+        }
+    }
+  ]
+}
